@@ -1,0 +1,25 @@
+{
+  "name": "pinbot",
+  "version": "0.0.1",
+  "description": "A Pinning Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piwithy/PinBot.git"
+  },
+  "author": "Pierre-Yves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piwithy/PinBot/issues"
+  },
+  "homepage": "https://github.com/piwithy/PinBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
