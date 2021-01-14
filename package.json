@@ -19,7 +19,6 @@
   "homepage": "https://github.com/piwithy/PinBot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0",
     "nodemon": "^2.0.6"
   }
 }
